@@ -1,1 +1,1 @@
-# slidingpuzzle
+# SlidingPuzzle
